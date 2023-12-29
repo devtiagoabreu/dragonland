@@ -27,13 +27,13 @@ Project published in vercel 💜
 <br>
 
 <p align="center">
-  <img alt="Dragon Land" src=".github/dragon_land_001.png" width="100%">
+  <img alt="Dragon Land" src=".github/dragon_land_001.jpeg" width="100%">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Dragon Land" src=".github/dragon_land_002.png" width="100%">
+  <img alt="Dragon Land" src=".github/dragon_land_002.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
