@@ -1,6 +1,9 @@
 ## 💻 Projeto
 
-Card Game (dragonland)
+Card Game (Dragon Land) - 
+
+Quando criança eu jogava muito Spellfire e D&D (Dragon Quest)... O tempo passou e perdi tudo o que tinha para amigos e primos... Estou fazendo minhas próprias cartas.
+Based on D&D's renowned role-playing card game Spellfire.
 
 Project published in vercel 💜
 
