@@ -6,10 +6,11 @@ Project published in vercel 💜
 
 - [Projeto Publicado](https://dragonland.com.br)
 
+<!--
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Dragon Land" title="Dragon Land" src=".github/logo.svg" />
 </h1>
-
+-->
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -26,13 +27,13 @@ Project published in vercel 💜
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/dragon_land_001.png" width="100%">
+  <img alt="Dragon Land" src=".github/dragon_land_001.png" width="100%">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/dragon_land_002.png" width="100%">
+  <img alt="Dragon Land" src=".github/dragon_land_002.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
