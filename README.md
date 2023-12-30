@@ -9,15 +9,10 @@ Project published in vercel 💜
 
 - [Projeto Publicado](https://dragonland.com.br)
 
-<!--
-<h1 align="center">
-    <img alt="Dragon Land" title="Dragon Land" src=".github/logo.svg" />
-</h1>
--->
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-templates">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -46,9 +41,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://www.w3schools.com/css/)
 - [JAVASCRIPT](https://www.javascript.com/)
 
-## 🔖 Template
+## 🔖 Templates
 
-- [...](https://www.figma.com/file/roo4cLzRlkgWqt6Uf95eVy/Dragon-Land?type=design&node-id=0%3A1&mode=design&t=dZXj3sEHeZ8o0ML7-1) 
+- [CARD GAME](https://www.figma.com/file/roo4cLzRlkgWqt6Uf95eVy/Dragon-Land?type=design&node-id=0%3A1&mode=design&t=dZXj3sEHeZ8o0ML7-1)
+
+- [WEB]()
+
+- [MOBILE]()
 
 ## 🧠 Agradecimento
 
@@ -69,7 +68,7 @@ Esse projeto está sob a licença [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A
 ---
 
 ## 🏋️ Links úteis
-- [..](https://)
+- [Regras | Referências | Assets](https://drive.google.com/drive/folders/1pODtsoChbuGlFz3uphNzAdQRVK7E2oGx?usp=drive_link)
 
 Codado com muita alegria e filhas no colo ♥ by [Tiago de Abreu](http://atriostech.com.br/tiago/) :wave: 
 [![Linkedin Badge](https://img.shields.io/badge/-tiagodeabreu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)](https://www.linkedin.com/in/tiago-de-abreu-8020b5b1/)
